@@ -96,6 +96,10 @@ $circle-border-color: $primary;
     position: relative;
     border-radius: 6px;
     text-align: justify;
+
+    p {
+      color: $gray-500;
+    }
   }
   
   /* Media queries - Responsive timeline on screens less than 600px wide */
